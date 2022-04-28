@@ -1,2 +1,1 @@
-# Tiro-con-arco-1
-PRO - C22
+# Plantilla-del-proyecto-C22
